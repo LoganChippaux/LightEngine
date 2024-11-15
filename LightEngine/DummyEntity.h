@@ -11,6 +11,6 @@ public:
 
 	void OnCollision(Entity* other) override;
 
-	void Shoot(Entity* other) override;
+	void Shoot(Entity* other);
 };
 

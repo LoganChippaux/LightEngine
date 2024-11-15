@@ -27,6 +27,7 @@
     <ClCompile Include="SampleScene.cpp" />
     <ClCompile Include="Scene.cpp" />
     <ClCompile Include="Utils.cpp" />
+    <ClCompile Include="ZombieEntity.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Debug.h" />
@@ -36,6 +37,7 @@
     <ClInclude Include="SampleScene.h" />
     <ClInclude Include="Scene.h" />
     <ClInclude Include="Utils.h" />
+    <ClInclude Include="ZombieEntity.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="GameManager.inl" />
