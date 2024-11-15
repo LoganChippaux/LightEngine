@@ -4,8 +4,7 @@
 class ZombieEntity : public Entity
 {
 public:
-    ZombieEntity(float radius, const sf::Color& color)
-        : Entity(radius, color)
+    ZombieEntity(float radius, const sf::Color& color) : Entity(radius, color)
     {
     }
 
